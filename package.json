@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-crash-coures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script.js",
+  "type": "module",
+  "scripts": {
+  "dev": "nodemon Script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
